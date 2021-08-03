@@ -1,0 +1,13 @@
+C:\Users\aadit\source\repos\doge\doge\bin\Debug\netcoreapp3.1\doge.exe
+C:\Users\aadit\source\repos\doge\doge\bin\Debug\netcoreapp3.1\doge.deps.json
+C:\Users\aadit\source\repos\doge\doge\bin\Debug\netcoreapp3.1\doge.runtimeconfig.json
+C:\Users\aadit\source\repos\doge\doge\bin\Debug\netcoreapp3.1\doge.runtimeconfig.dev.json
+C:\Users\aadit\source\repos\doge\doge\bin\Debug\netcoreapp3.1\doge.dll
+C:\Users\aadit\source\repos\doge\doge\bin\Debug\netcoreapp3.1\doge.pdb
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.csproj.AssemblyReference.cache
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.AssemblyInfoInputs.cache
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.AssemblyInfo.cs
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.csproj.CoreCompileInputs.cache
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.dll
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.pdb
+C:\Users\aadit\source\repos\doge\doge\obj\Debug\netcoreapp3.1\doge.genruntimeconfig.cache
